@@ -144,9 +144,11 @@ Text Classification:
 https://developers.google.com/machine-learning/guides/text-classification/  
 
 
-## CPA ##
+## Dimensionality Reduction ##
+CPA:  
 https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0
-
+t-SNE  
+https://lvdmaaten.github.io/tsne/  
 
 
 ## EDA ##
