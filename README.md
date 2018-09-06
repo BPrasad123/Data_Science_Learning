@@ -19,6 +19,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:6430354635386687489
 https://www.linkedin.com/feed/update/urn:li:activity:6434061314544500736  
 List of ML interpretability resources:  
 https://github.com/jphall663/awesome-machine-learning-interpretability  
+Videos by Brandon Rohrer:  
+https://www.youtube.com/user/BrandonRohrer/videos  
 
 
 
@@ -136,8 +138,40 @@ https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preproces
 Transformer:  
 https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html  
 https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py  
+Finetuning in NLP:  
+https://finetune.indico.io/  
+Text Classification:  
+https://developers.google.com/machine-learning/guides/text-classification/  
 
 
+## CPA ##
+https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0
+
+
+
+## EDA ##
+https://www.kaggle.com/randylaosat/simple-exploratory-data-analysis-passnyc  
+https://www.kaggle.com/infocusp/holographic-view-of-underperforming-schools  
+https://www.kaggle.com/moizzz/eda-and-clustering  
+https://www.kaggle.com/hungfei/passnyc-the-magic-of-data-science  
+https://www.kaggle.com/rishih/present-sir  
+
+
+## Data Visualization ##
+Seaborn:  
+https://elitedatascience.com/python-seaborn-tutorial  
+Pandas Plots:  
+https://pandas.pydata.org/pandas-docs/stable/visualization.html  
+Plotly:  
+https://plot.ly/python/  
+Bokeh:  
+http://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb  
+
+
+
+## RGF ##
+Blog with code:  
+https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/  
 
 
 ## PyTorch ##
@@ -188,6 +222,12 @@ https://github.com/dvgodoy/deepreplay
 
 ## AutoML and AutoKeras ##
 A new library in Python:  import ai  
+AutoML by H2O:  
+https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl  
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html  
+AutoKeras:  
+https://autokeras.com/  
+https://github.com/jhfjhfj1/autokeras  
 A blog by Favio:  
 https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e  
 
@@ -209,11 +249,14 @@ http://onlinestatbook.com/2/
 ## Betterment Projects ##
 For traffic management:  
 https://www.siemens.com/innovation/en/home/pictures-of-the-future/infrastructure-and-finance/smart-cities-ai-based-traffic-control.html  
+https://www.alibabacloud.com/et/city  
+
 
 ## Computer Vision Projects and Blogs ##
 https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59  
 https://www.youtube.com/c/DeepGamingAI  
 https://github.com/dabasajay/Image-Caption-Generator  
+https://github.com/bendangnuksung/Image-OutPainting  
 
 
 
@@ -230,6 +273,14 @@ Local SGD instead of Mini Batch GD:
 https://arxiv.org/abs/1808.07217  
 Democratizing Research Papers:  
 https://distill.pub/  
+Algorithm that outperformed DL:  
+https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/  
+
+
+## FFN (Flood-filling network) ##
+https://m.medicalxpress.com/news/2018-07-artificial-neural-networks-reveal-brain.html  
+https://github.com/google/ffn  
+ 
 
 
 ## YOLO ##
