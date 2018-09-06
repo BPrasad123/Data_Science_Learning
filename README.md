@@ -13,6 +13,40 @@ Guide by JP Morgan:
 https://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan  
 Bible on computer vision:  
 https://www.pyimagesearch.com/  
+Curated list of resources by Shivam Panchal:  
+https://www.linkedin.com/feed/update/urn:li:activity:6429636841338740736  
+https://www.linkedin.com/feed/update/urn:li:activity:6430354635386687489  
+https://www.linkedin.com/feed/update/urn:li:activity:6434061314544500736  
+
+
+
+
+## Python ##
+Curated list of sources by Shivan Panchal:  
+https://www.linkedin.com/feed/update/urn:li:activity:6423461792915255296  
+The best I have found so far is by Corey Schafer on YouTube:  
+https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g  
+
+
+
+## Time Series ##
+A list of collections by Shivam Panchal:  
+https://www.linkedin.com/feed/update/urn:li:activity:6434061314544500736  
+A paper to study:  
+https://arxiv.org/ftp/arxiv/papers/1302/1302.6613.pdf  
+Paper: LSTM for TimeSeries:  
+https://www.researchgate.net/publication/221079584_Applying_LSTM_to_Time_Series_Predictable_through_Time-Window_Approaches  
+A python package to automatically calculate features for time series:  
+https://tsfresh.readthedocs.io/en/latest/  
+Prophet for forecasting:  
+https://facebook.github.io/prophet/docs/quick_start.html  
+
+
+
+## Monte Carlo Tree Search ##
+Blogs:  
+https://www.kdnuggets.com/2017/12/introduction-monte-carlo-tree-search.html  
+https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/  
 
 
 
@@ -20,6 +54,21 @@ https://www.pyimagesearch.com/
 ## Free Books ##
 OpenStax is a non-profit organization for sharing books.  
 https://openstax.org/  
+e-books:  
+
+
+
+## Blogs and Websites for DS Learning ##
+Once again curated list by Shivan Panchal:  
+https://www.linkedin.com/feed/update/urn:li:activity:6432565071913807872  
+
+
+
+## Kaggle Competitions to Practice ##
+A list by Shivam:  
+https://www.linkedin.com/feed/update/urn:li:activity:6423992175910051840  
+
+
 
 
 ## GAN ##
@@ -64,6 +113,8 @@ https://arxiv.org/pdf/1808.10692.pdf
 ## NLP ##
 A great repository for all NLP tasks and information.  
 http://nlpprogress.com/
+A GitHub repository of NLP knowledge Han Xiao:  
+https://github.com/hanxiao/tf-nlp-blocks  
 Another awesome tutorial on NLP:  
 https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
 A great blog on GluonNLP toolkit:  
@@ -144,6 +195,13 @@ http://onlinestatbook.com/2/
 ## Betterment Projects ##
 For traffic management:  
 https://www.siemens.com/innovation/en/home/pictures-of-the-future/infrastructure-and-finance/smart-cities-ai-based-traffic-control.html  
+
+## Computer Vision Projects and Blogs ##
+https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59  
+https://www.youtube.com/c/DeepGamingAI  
+https://github.com/dabasajay/Image-Caption-Generator  
+
+
 
 ## OpenCV ##
 https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/  
