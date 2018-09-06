@@ -3,6 +3,12 @@
 ## Overall ##
 A repository of a graduate student Shervine in Stanford:  
 https://stanford.edu/~shervine/teaching/cs-229.html  
+Getting started with AI  
+https://montrealartificialintelligence.com/academy/  
+A great github respository of notes by Abhini Shetye:  
+https://gist.github.com/abhinishetye/38ece3fe86d695593bb39fd24003aebb  
+Machine Learning traning by Europian Space Agency:  
+https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA  
 
 ## Free Books ##
 OpenStax is a non-profit organization for sharing books.  
@@ -39,6 +45,8 @@ http://www.scipy-lectures.org/
 TensorFlow based framework Dopamine is now Open Sourced, that's interesting. Here are the details:  
 https://github.com/google/dopamine  
 https://github.com/google/dopamine/blob/master/docs/api_docs/python/index.md  
+Tutorial with blogs:  
+https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287  
 
 
 Simulation of the environment with agents' dynamics. Need to explore more on this.  
@@ -106,3 +114,31 @@ Resourceful blogs from Ankit Rathi are really helpful:
 https://towardsdatascience.com/@rathi.ankit  
 Statistics Online:  
 http://onlinestatbook.com/2/  
+
+
+## Betterment Projects ##
+For traffic management:  
+https://www.siemens.com/innovation/en/home/pictures-of-the-future/infrastructure-and-finance/smart-cities-ai-based-traffic-control.html  
+
+## OpenCV ##
+https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/  
+
+## Style Transfer ##
+Implementation by Siraj Raval:  
+https://www.youtube.com/watch?v=YoBEGQD3LCc  
+
+
+## Research ##
+Local SGD instead of Mini Batch GD:  
+https://arxiv.org/abs/1808.07217  
+
+## YOLO ##
+In R:  
+https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0  
+
+## Gesture Detection ##
+https://medium.com/@choxi/gesture-detection-using-tensorflowjs-cedfdc9dbab6  
+
+## vid2vid ##
+https://github.com/NVIDIA/vid2vid  
+
