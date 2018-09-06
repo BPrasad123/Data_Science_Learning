@@ -234,6 +234,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6434061314544500736
 List of ML interpretability resources:  
 https://github.com/jphall663/awesome-machine-learning-interpretability  
 Videos by Brandon Rohrer:  
+http://brohrer.github.io/  
 https://www.youtube.com/user/BrandonRohrer/videos  
 Deep Learning by Lex Fridman:  
 https://lexfridman.com/  
