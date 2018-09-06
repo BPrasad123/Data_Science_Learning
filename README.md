@@ -95,3 +95,14 @@ https://github.com/albermax/innvestigate
 lucid package:  
 https://github.com/tensorflow/lucid  
 
+## Statistics ##
+Starting with basic:  
+https://medium.com/codezillas/statistics-review-for-data-scientists-and-management-df8f94760221  
+One of the best books out there:  
+https://web.stanford.edu/~hastie/ElemStatLearn//  
+Fundamental Statistics:  
+https://sites.google.com/site/fundamentalstatistics/chapter1  
+Resourceful blogs from Ankit Rathi are really helpful:  
+https://towardsdatascience.com/@rathi.ankit  
+Statistics Online:  
+http://onlinestatbook.com/2/  
