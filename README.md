@@ -1,4 +1,4 @@
-# DataS cience Learning
+# Data Science Learning
 
 ## Overall ##
 A repository of a graduate student Shervine in Stanford:  
@@ -17,6 +17,15 @@ Curated list of resources by Shivam Panchal:
 https://www.linkedin.com/feed/update/urn:li:activity:6429636841338740736  
 https://www.linkedin.com/feed/update/urn:li:activity:6430354635386687489  
 https://www.linkedin.com/feed/update/urn:li:activity:6434061314544500736  
+List of ML interpretability resources:  
+https://github.com/jphall663/awesome-machine-learning-interpretability  
+
+
+
+## Mathematics ##
+A great article by Tirthajyoti Sarkar:  
+https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd  
+
 
 
 
@@ -40,6 +49,7 @@ A python package to automatically calculate features for time series:
 https://tsfresh.readthedocs.io/en/latest/  
 Prophet for forecasting:  
 https://facebook.github.io/prophet/docs/quick_start.html  
+https://github.com/luke14free/pm-prophet  
 
 
 
@@ -61,6 +71,8 @@ e-books:
 ## Blogs and Websites for DS Learning ##
 Once again curated list by Shivan Panchal:  
 https://www.linkedin.com/feed/update/urn:li:activity:6432565071913807872  
+Blogs by Akhil Gupta:  
+https://medium.com/@guptakhil  
 
 
 
@@ -174,8 +186,10 @@ https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay
 https://github.com/dvgodoy/deepreplay  
 
 
-## AutoML ##
+## AutoML and AutoKeras ##
 A new library in Python:  import ai  
+A blog by Favio:  
+https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e  
 
 
 
