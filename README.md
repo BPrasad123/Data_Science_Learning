@@ -70,6 +70,11 @@ A great blog on GluonNLP toolkit:
 https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a  
 Text pre-processing and exploration:  
 https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preprocessing-in-python-afc7ed88360d  
+Transformer:  
+https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html  
+https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py  
+
+
 
 
 ## PyTorch ##
@@ -111,6 +116,18 @@ https://github.com/albermax/innvestigate
 lucid package:  
 https://github.com/tensorflow/lucid  
 
+
+## Hyper-parameters Tuning ##
+DeepRelay is an interesting Python package to to replay the process of training with visualization:  
+https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631  
+https://github.com/dvgodoy/deepreplay  
+
+
+## AutoML ##
+A new library in Python:  import ai  
+
+
+
 ## Statistics ##
 Starting with basic:  
 https://medium.com/codezillas/statistics-review-for-data-scientists-and-management-df8f94760221  
@@ -139,6 +156,9 @@ https://www.youtube.com/watch?v=YoBEGQD3LCc
 ## Research ##
 Local SGD instead of Mini Batch GD:  
 https://arxiv.org/abs/1808.07217  
+Democratizing Research Papers:  
+https://distill.pub/  
+
 
 ## YOLO ##
 In R:  
@@ -156,3 +176,24 @@ https://github.com/NVIDIA/vid2vid
 
 ## Data Mining ##
 https://blogs.systweak.com/2017/03/best-19-free-data-mining-tools/  
+
+## Podcasts ##
+HoDS by Kate Strachnyi:  
+http://storybydata.com/humans-of-data-science-hods/  
+Call of Data by IDEAS and Data Application Lab:  
+http://www.claoudml.co/  
+Super Data Science by Kirill Eremenko:  
+https://www.superdatascience.com/podcast/  
+Data Science Office Hours:  
+https://www.youtube.com/channel/UC5c7r0SlnNmPfqxEyni71FA/videos  
+Data Skeptic Podcast by Kyle Polich:  
+https://dataskeptic.com/podcast/  
+Experian News by Mike Delgado:  
+http://www.experian.com/blogs/news/author/michael-delgado/  
+Linear Disregression by Ben Jaffe:  
+http://lineardigressions.com/  
+Machine Learning Guide:  
+http://ocdevel.com/mlg  
+
+
+
