@@ -54,7 +54,7 @@ https://www.youtube.com/c/DeepGamingAI
 https://github.com/dabasajay/Image-Caption-Generator  
 https://github.com/bendangnuksung/Image-OutPainting  
 
-
+Bible: https://www.pyimagesearch.com/pyimagesearch-gurus/  
 
 
 
@@ -235,6 +235,8 @@ List of ML interpretability resources:
 https://github.com/jphall663/awesome-machine-learning-interpretability  
 Videos by Brandon Rohrer:  
 https://www.youtube.com/user/BrandonRohrer/videos  
+Deep Learning by Lex Fridman:  
+https://lexfridman.com/  
 
 
 
@@ -341,6 +343,11 @@ https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-gree
 ## SciPy ##
 Tool and techniques for Scientific Python Ecosystem. It covers most of the topics:  
 http://www.scipy-lectures.org/  
+
+
+
+## Self-Driving ##
+https://selfdrivingcars.mit.edu/deeptraffic-visualization/  
 
 
 
