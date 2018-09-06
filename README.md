@@ -9,6 +9,13 @@ A great github respository of notes by Abhini Shetye:
 https://gist.github.com/abhinishetye/38ece3fe86d695593bb39fd24003aebb  
 Machine Learning traning by Europian Space Agency:  
 https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA  
+Guide by JP Morgan:  
+https://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan  
+Bible on computer vision:  
+https://www.pyimagesearch.com/  
+
+
+
 
 ## Free Books ##
 OpenStax is a non-profit organization for sharing books.  
@@ -61,7 +68,8 @@ Another awesome tutorial on NLP:
 https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
 A great blog on GluonNLP toolkit:  
 https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a  
-
+Text pre-processing and exploration:  
+https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preprocessing-in-python-afc7ed88360d  
 
 
 ## PyTorch ##
@@ -139,6 +147,12 @@ https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny
 ## Gesture Detection ##
 https://medium.com/@choxi/gesture-detection-using-tensorflowjs-cedfdc9dbab6  
 
+## Object Detection ##
+https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/  
+
 ## vid2vid ##
 https://github.com/NVIDIA/vid2vid  
 
+
+## Data Mining ##
+https://blogs.systweak.com/2017/03/best-19-free-data-mining-tools/  
