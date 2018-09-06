@@ -1,5 +1,14 @@
 # DataS cience Learning
 
+## Overall ##
+A repository of a graduate student Shervine in Stanford:  
+https://stanford.edu/~shervine/teaching/cs-229.html  
+
+## Free Books ##
+OpenStax is a non-profit organization for sharing books.  
+https://openstax.org/  
+
+
 ## GAN ##
 Interactive visualization tool for learning GAN:  
 https://poloclub.github.io/ganlab/  
@@ -51,6 +60,11 @@ https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-langu
 It is always great to start with official documents. Here it goes.  
 https://pytorch.org/tutorials/index.html  
 https://pytorch.org/tutorials/beginner/pytorch_with_examples.html#  
+A great tutotial from Stefan Otte on YouTube:  
+https://www.youtube.com/watch?v=_H3aw6wkCv0  
+Notebook:  
+https://github.com/sotte/pytorch_tutorial/blob/7ed1364c11a50308c93aa0393767cbabfc53f6d4/notebooks/00_index.ipynb  
+
 
 
 ## Autoencoder ##
