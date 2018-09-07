@@ -21,8 +21,8 @@ https://autokeras.com/
 https://github.com/jhfjhfj1/autokeras  
 A blog by Favio:  
 https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e  
-
-
+A blog from H2O:  
+https://www.h2o.ai/blog/the-different-flavors-of-automl/  
 
 
 
@@ -149,15 +149,29 @@ https://github.com/dvgodoy/deepreplay
 
 
 
+## Interpretability ##
+https://www.linkedin.com/feed/update/urn:li:activity:6425941973617729536  
+
+
 
 ## Kaggle Competitions to Practice ##
 A list by Shivam:  
 https://www.linkedin.com/feed/update/urn:li:activity:6423992175910051840  
 
+Winning Competitions by SRK:  
+https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions  
+
+
+
+
 
 ## Mathematics ##
 A great article by Tirthajyoti Sarkar:  
 https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd  
+
+An article by Vincent Chen:  
+https://blog.ycombinator.com/learning-math-for-machine-learning/  
+
 
 
 
@@ -198,7 +212,8 @@ Finetuning in NLP:
 https://finetune.indico.io/  
 Text Classification:  
 https://developers.google.com/machine-learning/guides/text-classification/  
-
+Text Processing:  
+https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preprocessing-in-python-afc7ed88360d  
 
 
 
