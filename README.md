@@ -414,7 +414,8 @@ Google Machine Learning crash course uses TensorFlow framework. It is great to s
 https://developers.google.com/machine-learning/crash-course/  
 Official documentation for TensorFlow is a great place to start with as well. It lets us run the code on Colab with GPU for free :)  
 https://www.tensorflow.org/tutorials/keras/basic_classification  
-
+A great blog on books and tutorials:  
+https://www.analyticsindiamag.com/top-10-free-books-and-resources-for-learning-tensorflow/  
 
 
 
