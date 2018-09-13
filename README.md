@@ -270,7 +270,8 @@ Deep Learning by Lex Fridman:
 https://lexfridman.com/  
 A great site:  
 https://elitedatascience.com/start-here  
-
+Check this out:  
+https://www.floydhub.com/  
 
 
 
