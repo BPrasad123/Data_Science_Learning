@@ -47,6 +47,12 @@ fast.ai
 
 
 
+## Colab - From Google ##
+How to start with:  
+https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html  
+
+
+
 
 ## Computer Vision Projects and Blogs ##
 https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59  
