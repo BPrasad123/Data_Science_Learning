@@ -268,6 +268,8 @@ http://brohrer.github.io/
 https://www.youtube.com/user/BrandonRohrer/videos  
 Deep Learning by Lex Fridman:  
 https://lexfridman.com/  
+A great site:  
+https://elitedatascience.com/start-here  
 
 
 
