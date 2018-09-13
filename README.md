@@ -64,6 +64,10 @@ Bible: https://www.pyimagesearch.com/pyimagesearch-gurus/
 
 
 
+## Courses ##
+https://digitaldefynd.com/deep-learning-courses-training-tutorial-certifications/  
+
+
 ## Data Mining ##
 https://blogs.systweak.com/2017/03/best-19-free-data-mining-tools/  
 
