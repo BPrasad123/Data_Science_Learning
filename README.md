@@ -174,6 +174,11 @@ https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
 
 
 
+## Keras ##
+https://elitedatascience.com/keras-tutorial-deep-learning-in-python  
+
+
+
 
 ## Mathematics ##
 A great article by Tirthajyoti Sarkar:  
