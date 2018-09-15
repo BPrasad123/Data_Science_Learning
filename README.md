@@ -272,7 +272,8 @@ A great site:
 https://elitedatascience.com/start-here  
 Check this out:  
 https://www.floydhub.com/  
-
+Data Science Resources selected by Shujian:  
+https://github.com/Shujian2015/FreeML/blob/master/README.md  
 
 
 
