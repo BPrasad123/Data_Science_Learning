@@ -229,7 +229,8 @@ Text Classification:
 https://developers.google.com/machine-learning/guides/text-classification/  
 Text Processing:  
 https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preprocessing-in-python-afc7ed88360d  
-
+Blog to start with:  
+https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html  
 
 
 ## Object Detection ##
