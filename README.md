@@ -275,6 +275,8 @@ Check this out:
 https://www.floydhub.com/  
 Data Science Resources selected by Shujian:  
 https://github.com/Shujian2015/FreeML/blob/master/README.md  
+Bible of Deep Learning:  
+http://wiki.fast.ai/index.php/Main_Page   
 
 
 
