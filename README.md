@@ -181,6 +181,9 @@ https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
 ## LDA (Latent Dirichlet Allocation)
 https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d  
+https://rare-technologies.com/what-is-topic-coherence/  
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/  
+
 
 
 
