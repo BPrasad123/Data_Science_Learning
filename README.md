@@ -179,6 +179,10 @@ https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
 
 
+## LDA (Latent Dirichlet Allocation)
+https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d  
+
+
 
 ## Mathematics ##
 A great article by Tirthajyoti Sarkar:  
