@@ -110,7 +110,8 @@ https://www.kaggle.com/hungfei/passnyc-the-magic-of-data-science
 https://www.kaggle.com/rishih/present-sir  
 
 
-
+## Embedding ##
+https://www.kaggle.com/colinmorris/embedding-layers  
 
 
 ## Excel ## 
@@ -149,6 +150,8 @@ https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-c
 https://medium.com/@choxi/gesture-detection-using-tensorflowjs-cedfdc9dbab6  
 
 
+## Graph Data Structures ##
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/  
 
 
 
