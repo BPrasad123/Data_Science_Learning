@@ -355,6 +355,12 @@ https://github.com/sotte/pytorch_tutorial/blob/7ed1364c11a50308c93aa0393767cbabf
 
 
 
+## RegEx
+https://www.youtube.com/watch?v=onaJjAbfbw0&list=PL8FFE3F391203C98C&index=3&t=0s  
+
+
+
+
 ## Reiforcement Learning ##
 
 TensorFlow based framework Dopamine is now Open Sourced, that's interesting. Here are the details:  
